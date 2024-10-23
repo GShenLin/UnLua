@@ -21,3 +21,10 @@ IOS/
 /Plugins/Developer/RiderLink
 /Benchmark
 /Plugins/UnLua/Source/UnLuaDefaultParamCollectorUbtPlugin/obj
+.vsconfig
+TPSProject.sln.DotSettings
+TPSProject.sln.DotSettings
+*.DotSettings
+TPSProject.sln.DotSettings
+TPSProject.sln.DotSettings
+Plugins/UnLua/Source/UnLuaDefaultParamCollectorUbtPlugin/UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.csproj.props

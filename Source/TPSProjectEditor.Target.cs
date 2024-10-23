@@ -16,7 +16,7 @@ using UnrealBuildTool;
 using System.Collections.Generic;
 
 public class TPSProjectEditorTarget : TargetRules{    public TPSProjectEditorTarget(TargetInfo Target) : base(Target)    {        Type = TargetType.Editor;
-        DefaultBuildSettings = BuildSettingsVersion.V2;
+        DefaultBuildSettings = BuildSettingsVersion.Latest;
         ExtraModuleNames.AddRange(            new string[]            {
                 "TPSProject"
             }            );
